@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=EADCDA&center=true&vCenter=true&width=500&lines=LUPINTIMES" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=3000&pause=1000&color=EADCDA&center=true&vCenter=true&width=500&lines=LUPINTIMES" />
 
 ### `UI Designer • Full Stack Creator • Game Developer`
 
@@ -8,7 +8,7 @@
 
 ---
 
-# 💻 TECH STACK
+# TECH STACK
 
 ## LANGUAGES
 
@@ -41,7 +41,7 @@
 
 ---
 
-# 📊 GITHUB STATS
+# GITHUB STATS
 
 ![](https://github-readme-stats.vercel.app/api?username=lupintimes&show_icons=true&bg_color=222121&title_color=EADCDA&text_color=FFFFFF&icon_color=EADCDA&border_color=EADCDA)
 
@@ -51,7 +51,7 @@
 
 ---
 
-# 🌐 SOCIALS
+# SOCIALS
 
 [![ITCH.IO](https://img.shields.io/badge/ITCH.IO-EADCDA?style=for-the-badge&logo=itch.io&logoColor=222121)](https://lupintimes.itch.io)
 
@@ -69,4 +69,4 @@
 
 # 👀 PROFILE VIEWS
 
-![](https://komarev.com/ghpvc/?username=lupintimes&style=for-the-badge&color=EADCDA)
+![](https://komarev.com/ghpvc/?username=lupintimes&style=for-the-badge&color=1A1A1A&labelColor=232323)
