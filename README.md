@@ -1,20 +1,10 @@
-# 👋 Hey, I'm Lupintimes
+# LUPINTIMES
 
-### 🎮 Game Developer • UI Designer • Full Stack Creator
-
----
-
-## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lupintimes)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lupintimes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lupintimes)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lupinlowkey)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashian2067@gmail.com)
+###  UI Designer • Full Stack Creator • Game Developer 
 
 ---
 
-# 💻 Tech Stack
+# TECH STACK
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,16 +25,25 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
-## Platforms
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
----
 
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=lupintimes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=lupintimes&theme=dark&hide_border=true)
+
+
+## SOCIALS
+
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+[![DISCORD](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lupintimes)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lupintimes)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lupintimes)
+[![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lupinlowkey)
+[![EMAIL](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashian2067@gmail.com)
+
+---
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lupintimes&theme=dark&hide_border=true&layout=compact)
 
