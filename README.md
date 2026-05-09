@@ -67,6 +67,6 @@
 
 ---
 
-# 👀 PROFILE VIEWS
+# PROFILE VIEWS
 
-![](https://komarev.com/ghpvc/?username=lupintimes&style=for-the-badge&color=1A1A1A&labelColor=232323)
+![](https://komarev.com/ghpvc/?username=lupintimes&style=for-the-badge&color=222121&labelColor=232323)
