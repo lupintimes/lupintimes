@@ -1,54 +1,72 @@
-# LUPINTIMES
+<div align="center">
 
-###  UI Designer • Full Stack Creator • Game Developer 
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=LUPINTIMES" />
 
----
+### `UI Designer • Full Stack Creator • Game Developer`
 
-# TECH STACK
-
-## Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-## Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-## Database & Backend
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-## Creative Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-
-
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=lupintimes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=lupintimes&theme=dark&hide_border=true)
-
-
-## SOCIALS
-
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-[![DISCORD](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lupintimes)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lupintimes)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lupintimes)
-[![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lupinlowkey)
-[![EMAIL](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashian2067@gmail.com)
+</div>
 
 ---
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lupintimes&theme=dark&hide_border=true&layout=compact)
+# 💻 TECH STACK
+
+## LANGUAGES
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-00BFFF?style=for-the-badge&logo=javascript&logoColor=0D1117)
+![Python](https://img.shields.io/badge/PYTHON-00BFFF?style=for-the-badge&logo=python&logoColor=0D1117)
+![Dart](https://img.shields.io/badge/DART-00BFFF?style=for-the-badge&logo=dart&logoColor=0D1117)
 
 ---
 
-## 👀 Profile Views
+## FRAMEWORKS & TOOLS
 
-![](https://komarev.com/ghpvc/?username=lupintimes&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/FLUTTER-00BFFF?style=for-the-badge&logo=flutter&logoColor=0D1117)
+![Electron.js](https://img.shields.io/badge/ELECTRON-00BFFF?style=for-the-badge&logo=electron&logoColor=0D1117)
+![NodeJS](https://img.shields.io/badge/NODE.JS-00BFFF?style=for-the-badge&logo=node.js&logoColor=0D1117)
+
+---
+
+## DATABASE & BACKEND
+
+![MySQL](https://img.shields.io/badge/MYSQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=0D1117)
+![Firebase](https://img.shields.io/badge/FIREBASE-00BFFF?style=for-the-badge&logo=firebase&logoColor=0D1117)
+
+---
+
+## CREATIVE TOOLS
+
+![Adobe Photoshop](https://img.shields.io/badge/PHOTOSHOP-00BFFF?style=for-the-badge&logo=adobephotoshop&logoColor=0D1117)
+![Adobe Premiere Pro](https://img.shields.io/badge/PREMIERE_PRO-00BFFF?style=for-the-badge&logo=adobepremierepro&logoColor=0D1117)
+![Adobe After Effects](https://img.shields.io/badge/AFTER_EFFECTS-00BFFF?style=for-the-badge&logo=adobeaftereffects&logoColor=0D1117)
+
+---
+
+# 📊 GITHUB STATS
+
+![](https://github-readme-stats.vercel.app/api?username=lupintimes&show_icons=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&border_color=00BFFF)
+
+![](https://streak-stats.demolab.com?user=lupintimes&background=0D1117&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lupintimes&layout=compact&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&border_color=00BFFF)
+
+---
+
+# 🌐 SOCIALS
+
+[![ITCH.IO](https://img.shields.io/badge/ITCH.IO-00BFFF?style=for-the-badge&logo=itch.io&logoColor=0D1117)](https://lupintimes.itch.io)
+
+[![DISCORD](https://img.shields.io/badge/DISCORD-00BFFF?style=for-the-badge&logo=discord&logoColor=0D1117)](https://discord.gg/lupintimes)
+
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-00BFFF?style=for-the-badge&logo=instagram&logoColor=0D1117)](https://instagram.com/lupintimes)
+
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-00BFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/lupintimes)
+
+[![PINTEREST](https://img.shields.io/badge/PINTEREST-00BFFF?style=for-the-badge&logo=pinterest&logoColor=0D1117)](https://pinterest.com/lupinlowkey)
+
+[![EMAIL](https://img.shields.io/badge/EMAIL-00BFFF?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:aashian2067@gmail.com)
+
+---
+
+# 👀 PROFILE VIEWS
+
+![](https://komarev.com/ghpvc/?username=lupintimes&style=for-the-badge&color=00BFFF)
