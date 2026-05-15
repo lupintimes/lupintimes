@@ -13,7 +13,7 @@
 <tr>
   <td align="center" width="50%">
     <a href="https://lupintimes.itch.io/mechfallcity-in-ruins">
-      <img src="https://github.com/user-attachments/assets/927aa58a-bc00-4561-9b3f-8bf1ff0ffd5c" width="100%" alt="MECHFALL: CITY IN RUINS" />
+      <img src="https://github.com/user-attachments/assets/c1441d8f-9595-4e1e-b25b-e9e57093ac3f" width="100%" alt="MECHFALL: CITY IN RUINS" />
     </a>
   </td>
 
