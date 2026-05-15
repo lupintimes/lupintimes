@@ -8,18 +8,65 @@
 
 ---
 
-# TECH STACK
+## MY PROJECTS
+<table>
+<tr>
+  <td align="center" width="50%">
+    <a href="https://lupintimes.itch.io/mechfallcity-in-ruins">
+      <img src="[YOUR_IMAGE_LINK_HERE](https://github.com/user-attachments/assets/927aa58a-bc00-4561-9b3f-8bf1ff0ffd5c)" width="100%" alt="MECHFALL: CITY IN RUINS" />
+    </a>
+  </td>
 
-## LANGUAGES
+  <td align="center" width="50%">
+    <a href="https://my-projects-1-fj75.onrender.com/">
+      <img src="(https://github.com/user-attachments/assets/4d757ac0-3de7-4f46-805f-70529124fd4d)" width="100%" alt="COMUNCATION PROGRAM" />
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-EADCDA?style=for-the-badge&logo=javascript&logoColor=222121)
-![Python](https://img.shields.io/badge/PYTHON-EADCDA?style=for-the-badge&logo=python&logoColor=222121)
-![Dart](https://img.shields.io/badge/DART-EADCDA?style=for-the-badge&logo=dart&logoColor=222121)
+
+    </a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top">
+    <br/>
+    <strong>MECHFALL: CITY IN RUINS</strong><br/>
+    <sub>Game Designer · Unity Developer</sub><br/>
+    <sub>A sci-fi action game set in a collapsing mechanical city featuring combat, traversal, and atmospheric worldbuilding.</sub>
+  </td>
+
+  <td align="center" valign="top">
+    <br/>
+    <strong>COMUNICATION PROGRAM</strong><br/>
+    <sub>Full Stack Developer</sub><br/>
+    <sub>A comunication program which has seperate modules forchating and voice calling.</sub>
+  </td>
+</tr>
+
+<tr>
+  <td align="center">
+    <br/>
+    <a href="https://lupintimes.itch.io/mechfallcity-in-ruins">
+      <img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" />
+    </a>
+  </td>
+
+  <td align="center">
+    <br/>
+    <a href="https://my-projects-1-fj75.onrender.com/">
+      <img src="https://img.shields.io/badge/LIVE_DEMO-fed001?style=for-the-badge&logo=render&logoColor=1a1a00" />
+    </a>
+  </td>
+</tr>
+</table>
 
 ---
 
+# TECH STACK
+
+
 ## FRAMEWORKS & TOOLS
 
+![Adobe Photoshop](https://img.shields.io/badge/PHOTOSHOP-EADCDA?style=for-the-badge&logo=adobephotoshop&logoColor=222121)
 ![Flutter](https://img.shields.io/badge/FLUTTER-EADCDA?style=for-the-badge&logo=flutter&logoColor=222121)
 ![Electron.js](https://img.shields.io/badge/ELECTRON-EADCDA?style=for-the-badge&logo=electron&logoColor=222121)
 ![NodeJS](https://img.shields.io/badge/NODE.JS-EADCDA?style=for-the-badge&logo=node.js&logoColor=222121)
@@ -33,13 +80,7 @@
 
 ---
 
-## CREATIVE TOOLS
 
-![Adobe Photoshop](https://img.shields.io/badge/PHOTOSHOP-EADCDA?style=for-the-badge&logo=adobephotoshop&logoColor=222121)
-![Adobe Premiere Pro](https://img.shields.io/badge/PREMIERE_PRO-EADCDA?style=for-the-badge&logo=adobepremierepro&logoColor=222121)
-![Adobe After Effects](https://img.shields.io/badge/AFTER_EFFECTS-EADCDA?style=for-the-badge&logo=adobeaftereffects&logoColor=222121)
-
----
 
 # GITHUB STATS
 
@@ -54,15 +95,10 @@
 # SOCIALS
 
 [![ITCH.IO](https://img.shields.io/badge/ITCH.IO-EADCDA?style=for-the-badge&logo=itch.io&logoColor=222121)](https://lupintimes.itch.io)
-
 [![DISCORD](https://img.shields.io/badge/DISCORD-EADCDA?style=for-the-badge&logo=discord&logoColor=222121)](https://discord.gg/lupintimes)
-
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-EADCDA?style=for-the-badge&logo=instagram&logoColor=222121)](https://instagram.com/lupintimes)
-
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-EADCDA?style=for-the-badge&logo=linkedin&logoColor=222121)](https://linkedin.com/in/lupintimes)
-
 [![PINTEREST](https://img.shields.io/badge/PINTEREST-EADCDA?style=for-the-badge&logo=pinterest&logoColor=222121)](https://pinterest.com/lupinlowkey)
-
 [![EMAIL](https://img.shields.io/badge/EMAIL-EADCDA?style=for-the-badge&logo=gmail&logoColor=222121)](mailto:aashian2067@gmail.com)
 
 ---
