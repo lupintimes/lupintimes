@@ -46,11 +46,11 @@
     <br/>
     
    <a href="https://github.com/lupintimes/comunication_program">
-      <img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" />
+      <img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=222121" />
     </a>
 
    <a href="https://my-projects-1-fj75.onrender.com/">
-      <img src="https://img.shields.io/badge/LIVE_DEMO-2d2d2d?style=for-the-badge&logo=render&logoColor=fed001" />
+      <img src="https://img.shields.io/badge/LIVE_DEMO-2d2d2d?style=for-the-badge&logo=render&logoColor=232323" />
     </a>
     
   </td>
@@ -59,11 +59,11 @@
     <br/>
     
    <a href="https://github.com/lupintimes/MechFall">
-      <img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" />
+      <img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=222121" />
     </a>
 
    <a href="https://lupintimes.itch.io/mechfallcity-in-ruins">
-      <img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" />
+      <img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=232323" />
     </a>
     
   </td>
