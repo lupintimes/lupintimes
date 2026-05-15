@@ -16,8 +16,9 @@ jobs:
       - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@main
         with:
-          github-name: lupintimes
-          output-file: dist/space-shooter.gif
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: lupintimes
+          output-path: dist/space-shooter.gif
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v4
