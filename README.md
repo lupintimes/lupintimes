@@ -114,6 +114,14 @@
 
 ---
 
+# CONTRIBUTIONS
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lupintimes/lupintimes/output/space-shooter.gif" />
+</p>
+
+---
+
 # PROFILE VIEWS
 
 ![](https://komarev.com/ghpvc/?username=lupintimes&style=for-the-badge&color=222121&labelColor=232323)
