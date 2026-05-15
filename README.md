@@ -12,16 +12,17 @@
 <table>
 <tr>
   <td align="center" width="50%">
-    <a href="https://lupintimes.itch.io/mechfallcity-in-ruins">
-      <img src="https://github.com/user-attachments/assets/c1441d8f-9595-4e1e-b25b-e9e57093ac3f" width="100%" alt="MECHFALL: CITY IN RUINS" />
-    </a>
-  </td>
-
-  <td align="center" width="50%">
     <a href="https://my-projects-1-fj75.onrender.com/">
       <img src="https://github.com/user-attachments/assets/4d757ac0-3de7-4f46-805f-70529124fd4d" width="100%" alt="COMUNCATION PROGRAM" />
     </a>
   </td>
+  
+  <td align="center" width="50%">
+    <a href="https://lupintimes.itch.io/mechfallcity-in-ruins">
+      <img src="https://github.com/user-attachments/assets/c1441d8f-9595-4e1e-b25b-e9e57093ac3f" width="100%" alt="MECHFALL: CITY IN RUINS" />
+    </a>
+  </td>
+  
 </tr>
 
 <tr>
@@ -43,16 +44,28 @@
 <tr>
   <td align="center">
     <br/>
-    <a href="https://lupintimes.itch.io/mechfallcity-in-ruins">
+    
+   <a href="https://github.com/lupintimes/MechFall">
+      <img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" />
+    </a>
+
+   <a href="https://lupintimes.itch.io/mechfallcity-in-ruins">
       <img src="https://img.shields.io/badge/ITCH.IO-2d2d2d?style=for-the-badge&logo=itch.io&logoColor=fed001" />
     </a>
+    
   </td>
 
   <td align="center">
     <br/>
-    <a href="https://my-projects-1-fj75.onrender.com/">
-      <img src="https://img.shields.io/badge/LIVE_DEMO-fed001?style=for-the-badge&logo=render&logoColor=1a1a00" />
+    
+   <a href="https://github.com/lupintimes/comunication_program">
+      <img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=1a1a00" />
     </a>
+
+   <a href="https://my-projects-1-fj75.onrender.com/">
+      <img src="https://img.shields.io/badge/LIVE_DEMO-2d2d2d?style=for-the-badge&logo=render&logoColor=fed001" />
+    </a>
+    
   </td>
 </tr>
 </table>
