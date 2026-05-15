@@ -1,8 +1,6 @@
 name: Generate Space Shooter
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,18 +11,22 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Space Shooter
-        uses: czl9707/gh-space-shooter@main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install gh-space-shooter
+
+      - name: Generate GIF
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: lupintimes
-          output-path: dist/space-shooter.gif
+        run: |
+          mkdir -p dist
+          gh-space-shooter lupintimes --output dist/space-shooter.gif
 
-      - name: Deploy to output branch
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
