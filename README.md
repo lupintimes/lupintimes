@@ -13,15 +13,13 @@
 <tr>
   <td align="center" width="50%">
     <a href="https://lupintimes.itch.io/mechfallcity-in-ruins">
-      <img src="[YOUR_IMAGE_LINK_HERE](https://github.com/user-attachments/assets/927aa58a-bc00-4561-9b3f-8bf1ff0ffd5c)" width="100%" alt="MECHFALL: CITY IN RUINS" />
+      <img src="https://github.com/user-attachments/assets/927aa58a-bc00-4561-9b3f-8bf1ff0ffd5c" width="100%" alt="MECHFALL: CITY IN RUINS" />
     </a>
   </td>
 
   <td align="center" width="50%">
     <a href="https://my-projects-1-fj75.onrender.com/">
-      <img src="(https://github.com/user-attachments/assets/4d757ac0-3de7-4f46-805f-70529124fd4d)" width="100%" alt="COMUNCATION PROGRAM" />
-
-
+      <img src="https://github.com/user-attachments/assets/4d757ac0-3de7-4f46-805f-70529124fd4d" width="100%" alt="COMUNCATION PROGRAM" />
     </a>
   </td>
 </tr>
