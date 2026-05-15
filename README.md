@@ -46,7 +46,7 @@
     <br/>
     
    <a href="https://github.com/lupintimes/comunication_program">
-      <img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=222121" />
+      <img src="https://img.shields.io/badge/GITHUB-eadcda?style=for-the-badge&logo=github&logoColor=222121" />
     </a>
 
    <a href="https://my-projects-1-fj75.onrender.com/">
@@ -59,7 +59,7 @@
     <br/>
     
    <a href="https://github.com/lupintimes/MechFall">
-      <img src="https://img.shields.io/badge/GITHUB-fed001?style=for-the-badge&logo=github&logoColor=222121" />
+      <img src="https://img.shields.io/badge/GITHUB-eadcda?style=for-the-badge&logo=github&logoColor=222121" />
     </a>
 
    <a href="https://lupintimes.itch.io/mechfallcity-in-ruins">
